@@ -4,7 +4,7 @@ Este es un portfolio creado con HTML, CSS y JavaScript
 ## Autor -
 ** Albert Ramirez **
 
-* [[LinkedIn](http://www.linkedin.com/in/albertdev03com)
+* [LinkedIn](http://www.linkedin.com/in/albertdev03com)
 * [Portfolio web]
 
 ## Ver ejemplo en vivo
