@@ -7,6 +7,9 @@ Este es un portfolio creado con HTML, CSS y JavaScript
 * [LinkedIn]
 * [Portfolio web]
 
+## Ver ejemplo en vivo
+- [ENLACEGITHUBPAGES] (ENLACEGITHUBPAGES)  
+
 ## Instalación
 Este proyecto no requiere de instalación, sólo abre la carpeta o haz doble click en el .html
 
