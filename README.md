@@ -13,5 +13,5 @@ Este es un portfolio creado con HTML, CSS y JavaScript
 ## Instalación
 Este proyecto no requiere de instalación, sólo abre la carpeta o haz doble click en el .html
 
-## Contrtación
+## Contratación
 Si quieres contratarme puedes escribirme a albert.dev03@gmail.com para consultas
